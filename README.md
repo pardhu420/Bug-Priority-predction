@@ -28,7 +28,7 @@ Matplotlib / Seaborn for visualizations
 
 🧪 How to Run
 Clone the repository:
-git clone https://github.com/A-Charith/Bug-Priority-prediction-using-hybrid-deep-learning-model.git
+git clone 
 📈 Output & Evaluation
 Model is evaluated using metrics:
 Accuracy
